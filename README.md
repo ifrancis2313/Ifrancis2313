@@ -9,7 +9,7 @@ Quantitative finance | Machine learning | Algorithmic trading
 
 I'm a rising junior at USF double majoring in Math and Economics, building toward a career in quantitative finance. My work sits at the intersection of financial theory and applied ML — I use Python to model markets, test strategies with real statistical rigor, and build the infrastructure that separates a backtest from a validated edge.
 
-I'm President and co-founder of the Options and Futures Club (Dons Derivatives), a Fund Manager/Analyst on the Student Investment Committee, and an analyst in USF's Silk Investment Lab conducting options pricing research on Bloomberg and FactSet data.
+I'm President and co-founder of the Options and Futures Club (Dons Derivatives), a Fund Manager/Analyst on the Student Investment Club, and an analyst in USF's Silk Investment Lab conducting economic research using Bloomberg and FactSet data.
 
 ---
 
