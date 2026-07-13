@@ -34,7 +34,7 @@ I'm President and co-founder of the Options and Futures Club (Dons Derivatives),
 ## Background
 
 - President & Co-founder — Options and Futures Club (Dons Derivatives)
-- Fund Manager / Analyst — Student Investment Committee ($400K AUM)
+- Fund Manager / Analyst — Student Investment Committee ($100K AUM)
 - Silk Investment Lab Analyst — options pricing research, ML modeling on historical contract data
 - Conferences — PyTorch (2025) · BlackRock AI in Finance & Markets (2025) · TechCrunch Disrupt (2025) · Jane Street MEG Release (2025)
 
