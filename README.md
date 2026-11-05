@@ -17,6 +17,7 @@ I'm a third-year Math and Economics double major at USF, working toward quantita
 |------|---------------|
 | [strategy-development-mirror](https://github.com/Ifrancis2313/strategy-development-mirror) | Validation infrastructure from my options-research pipeline: walk-forward splits, Monte Carlo / PBO overfitting checks, mutation testing, and a graduation gate between research and paper trading. Strategies, results and data are excluded on purpose. |
 | [sic-research-pipeline-mirror](https://github.com/Ifrancis2313/sic-research-pipeline-mirror) | A quantamental equity research pipeline built around point-in-time data availability, so backtests can't see information before it was published. Infrastructure and methodology only. |
+| [position-charts-mirror](https://github.com/Ifrancis2313/position-charts-mirror) | A small, reusable library for charting options positions: price with entry/exit markers above, aggregated P&L across any number of legs below. Tested against hand-computed P&L values. |
 | [options_dashboard](https://github.com/Ifrancis2313/options_dashboard) | Black-Scholes pricer with Greeks, an implied-volatility solver and vol-smile visualization, checked against textbook reference values. |
 
 More projects are being published as code-only mirrors as each one passes review.
