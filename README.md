@@ -7,7 +7,7 @@ Quantitative research · Statistical validation · Research infrastructure
 
 ## About
 
-I'm a third-year Math and Economics double major at USF, working toward quantitative research. I build research infrastructure in Python and use it to test trading ideas with the same skepticism a desk would apply: walk-forward validation, overfitting checks (PBO/CSCV), point-in-time data, and staged gates from historical research to paper trading. Most ideas fail those gates, and the system is built to record that honestly rather than hide it.
+I'm a third-year Math and Economics double major at USF, working toward quantitative research. I build research infrastructure in Python and use it to test trading ideas with the same skepticism a desk would apply: walk-forward validation, overfitting checks (PBO/CSCV), point-in-time data, and staged gates from historical research to paper trading. Those gates are designed to reject most ideas, and the system records what was tried and rejected rather than hiding it.
 
 ---
 
@@ -15,7 +15,7 @@ I'm a third-year Math and Economics double major at USF, working toward quantita
 
 | Repo | What it shows |
 |------|---------------|
-| [strategy-development-mirror](https://github.com/Ifrancis2313/strategy-development-mirror) | Validation infrastructure from my options-research pipeline: walk-forward splits, Monte Carlo / PBO overfitting checks, mutation testing, and a graduation gate between research and paper trading. Strategies, results and data are excluded on purpose. |
+| [strategy-development-mirror](https://github.com/Ifrancis2313/strategy-development-mirror) | Validation infrastructure from my options-research pipeline: walk-forward splits, Monte Carlo / PBO overfitting checks, mutation testing, and a graduation gate between research and paper trading. Strategies, results and data are excluded on purpose. Includes a one-command synthetic-data demo. |
 | [sic-research-pipeline-mirror](https://github.com/Ifrancis2313/sic-research-pipeline-mirror) | A quantamental equity research pipeline built around point-in-time data availability, so backtests can't see information before it was published. Infrastructure and methodology only. |
 | [pairs-engine](https://github.com/Ifrancis2313/pairs-engine) | An event-driven pairs-research engine: rolling hedge ratios, z-score spread signals, hedge-weighted sizing and daily risk halts, with historical replay and live polling running through the same bar handler. 24 synthetic tests; same-bar fills and missing cost modeling are documented as limitations. Code only. |
 | [position-charts-mirror](https://github.com/Ifrancis2313/position-charts-mirror) | A small, reusable library for charting options positions: price with entry/exit markers above, aggregated P&L across any number of legs below. Tested against hand-computed P&L values. |
